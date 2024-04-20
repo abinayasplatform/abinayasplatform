@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abinayasplatform
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning Full Stack Development(MERN)
 
 
 <!---
